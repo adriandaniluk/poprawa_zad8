@@ -1,0 +1,9 @@
+klasa Bankomat
+	funkcja wyplacaniePieniedzy
+	funkcja wplacaniePieniedzy
+	funkcja pokazywanieStanuKonta
+klasa Klient
+	zmienna stanPortfela
+	zmienna numerKontaWBanku
+	funkcja pobieraniePieniedzy
+	funkcja dawaniePieniedzy
